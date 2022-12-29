@@ -1,0 +1,18 @@
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\bin\Debug\Prime Number Checker.exe.config
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\bin\Debug\Prime Number Checker.exe
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\bin\Debug\Prime Number Checker.pdb
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\bin\Debug\Bunifu.Licensing.dll
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\obj\Debug\Prime Number Checker.csproj.AssemblyReference.cache
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\obj\Debug\Prime Number Checker.csproj.SuggestedBindingRedirects.cache
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\obj\Debug\Prime_Number_Checker.Form1.resources
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\obj\Debug\Prime_Number_Checker.Properties.Resources.resources
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\obj\Debug\Prime Number Checker.csproj.GenerateResource.cache
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\obj\Debug\Prime Number Checker.exe.licenses
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\obj\Debug\Prime Number Checker.csproj.CoreCompileInputs.cache
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\obj\Debug\Prime Number Checker.csproj.CopyComplete
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\obj\Debug\Prime Number Checker.exe
+D:\Adobe\Comp 1\VS Saves\Prime Number Checker\obj\Debug\Prime Number Checker.pdb
